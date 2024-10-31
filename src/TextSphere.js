@@ -23,7 +23,6 @@ export default function TextShpere() {
                 "CLION",
                 "Webstorm",
                 "Github",
-                "Docker",
                 "Figma",
                 "Netlify",
                 "Retool API",
