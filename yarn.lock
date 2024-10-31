@@ -3398,6 +3398,11 @@
   dependencies:
     "@zag-js/dom-query" "0.16.0"
 
+TagCloud@^2.5.0:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/TagCloud/-/TagCloud-2.5.0.tgz#9917b4ee52fe2130d391e7922e45eef7e3f9ca49"
+  integrity sha512-lMr8UCbOLOyP9iKc/lJalpNTm25rjmplbQ20ljw02tyx4ITBxDh4TRBhSpayC6QGjtRtvslUljfr2SGoPOGnXw==
+
 abab@^2.0.3, abab@^2.0.5:
   version "2.0.6"
   resolved "https://registry.npmjs.org/abab/-/abab-2.0.6.tgz"
