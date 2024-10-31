@@ -42,7 +42,7 @@ export default function TextShpere() {
 
     return (
         <>
-            <div className="text-shpere">
+            <div className="text-sphere">
                 <span className="tagcloud"></span>
             </div>
         </>
